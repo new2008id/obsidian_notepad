@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a8deb020611b756d",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e72f6f729f045e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b273cb01228cf73",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "a7f27ebcec0c81a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "серверами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "серверами"
+            }
+          },
+          {
+            "id": "a8b22c9f48f1513a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сетевыми инфраструктурами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "сетевыми инфраструктурами"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67df5a5395e7cb6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c65c2dc99f9dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5ef2a8321d8aa5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1986742f3b91a041",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "fb7413f3e599ad0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "002f24f0896fd7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a77bea42fa0eacee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "723aa9d2c05fbe35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "серверами.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для серверами"
+            }
+          },
+          {
+            "id": "d32d6398458e4c4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "серверами.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из серверами"
+            }
+          },
+          {
+            "id": "7021edc9dc5aae37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "67b1e0e7ba412064",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "серверами.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура серверами"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a7f27ebcec0c81a0",
+  "lastOpenFiles": [
+    "сетевыми инфраструктурами.md",
+    "серверами.md",
+    "скриптов.md",
+    "GNU.md",
+    "Unix.md",
+    "Linux.md",
+    "операционная система.md",
+    "Android.md",
+    "Kotlin.md",
+    "Java.md",
+    "Google.md",
+    "Android TV.md",
+    "Разработка под Android.md",
+    "мобильных устройств.md",
+    "Smart TV.md",
+    "Добро пожаловать.md"
+  ]
+}

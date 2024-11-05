@@ -75,7 +75,8 @@ public void showDescButton(View view) {
     description.setVisibility(View.VISIBLE);  
 }
 ```
-Работает по принципу:
+
+## Работает по принципу:
 1. Находим выбранную позицию
 2. Получаем из Resources строку по выбранной позиции
 3. Устанавливаем текст для TextView (descritionText)

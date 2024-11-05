@@ -11,42 +11,46 @@
             "id": "5b273cb01228cf73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "a7f27ebcec0c81a0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "серверами.md",
+                "file": "Разработка под Android.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "серверами"
+              "title": "Разработка под Android"
             }
           },
           {
-            "id": "a8b22c9f48f1513a",
+            "id": "806c39dd1d21f11a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сетевыми инфраструктурами.md",
+                "file": "Полный курс Андроид + Java с нуля.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "сетевыми инфраструктурами"
+              "title": "Полный курс Андроид + Java с нуля"
+            }
+          },
+          {
+            "id": "9965a25a26046f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color Description.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Color Description"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,21 +191,31 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a7f27ebcec0c81a0",
+  "active": "9965a25a26046f26",
   "lastOpenFiles": [
+    "Messanger.md",
+    "Полный курс Андроид + Java с нуля.md",
+    "Разработка под Android.md",
+    "Архитектура приложения.md",
+    "Color Description.md",
+    "Pasted image 20241105140114.png",
+    "'Color Description'.md",
+    "Java.md",
+    "Kotlin.md",
+    "Linux.md",
+    "Unix.md",
+    "Pasted image 20241101115549.png",
+    "SW.BAND Udemy Andrey Sumin Android профессиональный уровень ([[Kotlin.md",
     "сетевыми инфраструктурами.md",
+    "Pasted image 20241101115543.png",
+    "Pasted image 20241101115548.png",
+    "Google.md",
     "серверами.md",
     "скриптов.md",
     "GNU.md",
-    "Unix.md",
-    "Linux.md",
     "операционная система.md",
     "Android.md",
-    "Kotlin.md",
-    "Java.md",
-    "Google.md",
     "Android TV.md",
-    "Разработка под Android.md",
     "мобильных устройств.md",
     "Smart TV.md",
     "Добро пожаловать.md"

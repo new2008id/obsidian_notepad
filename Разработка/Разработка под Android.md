@@ -14,8 +14,9 @@
 Курсы:
 >[!success] 1. SW.BAND Udemy Роман Панёв - [[Kotlin]] с нуля + разработка приложения под Android
 
->[! ] 2 [[Полный курс Андроид + Java с нуля]]
-3. [[SW.BAND Udemy Andrey Sumin Android профессиональный уровень ([[Kotlin]]) (2021)]]
+>[!success ] 2**. [[Полный курс Андроид + Java с нуля]]**
+
+>[! ] 3. [[SW.BAND Udemy Andrey Sumin Android профессиональный уровень ([[Kotlin]]])
 
 
 

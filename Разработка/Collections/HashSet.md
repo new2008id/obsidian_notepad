@@ -8,7 +8,7 @@
 - Хорошо подходит для быстрого доступа к значениям по ключу, когда порядок не важен.
 ## Примеры использования
 
-```kotlin
+```java
 HashSet<String> names = getMyArrayList(); 
 for (String numberName : names) {  
     System.out.println(numberName);  

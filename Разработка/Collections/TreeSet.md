@@ -97,3 +97,28 @@ public class Car implements Comparable<Car> { // удалил Comparable
     }  
 }
 ```
+
+```java
+public class Main {  
+    public static void main(String[] args) {  
+        Set<Integer> numbers = new TreeSet<>(new Comparator<Integer>() {  
+            @Override  
+            public int compare(Integer o1, Integer o2) {  
+//                 в порядке убывания  
+//                return o2 - o1;  
+                return -o1.compareTo(o2);  
+                // в порядке возрастания  
+//                return o1 - o2;  
+            }  
+        });  
+        for (int i = 0; i < 100; i++) {  
+            numbers.add((int) (Math.random() * 10));  
+        }  
+        for (int number : numbers) {  
+            System.out.println(number);  
+        }  
+    }  
+}
+```
+
+Здесь используется объект [[Анонимные классы]], реализующий `interface Comparator`

@@ -42,4 +42,4 @@ public class Main {
 }
 ```
 
-
+Представлен пример с использованием [[Разработка/Общие понятия/Collections (Java)|Collections (Java)]]

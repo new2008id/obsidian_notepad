@@ -5,7 +5,7 @@
 
 ## Примеры использования
 
-```kotlin
+```java
 ArrayList<Integer> numbers = new ArrayList<>(); // 5 numbers list, 0 in unitil 5  
 ArrayList<String> collectionString = new ArrayList<>(); // 1 - name  
 ArrayList<String> myNames = getMyArrayList(); // 5 names list  
@@ -23,7 +23,7 @@ for (String result : collectionString) {
 >[! ] Данный пример иллюстрирует базовое использование `ArrayList` c двумя ссылочными типами - `Integer` и `String`
 
 ### Методы для работы с данными
-```kotlin 
+```java 
 names.add("Alice"); // добавляет элемент по имени
 names.add("Bob");
 names.remove("Bob"); // удаляет элемент по имени

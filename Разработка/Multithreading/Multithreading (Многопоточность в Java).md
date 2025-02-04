@@ -1,4 +1,4 @@
-#multithreading #java 
+#multithreading #java #Runnable #anonymous_class
 ### Основные понятия
 
 >[! ] `Многопоточность` - это средство, которое позволяет выполнять разные задачи одновременно.

@@ -1,4 +1,4 @@
-#multithreading #java 
+#multithreading #java #Thread #Runnable
 ### Основные понятия
 
 >[!warning ] У наследоваться от класса `Thread`.

@@ -35,7 +35,6 @@ public class Main {
     }  
 }
 ```
-
 #### 2-й способ использовать многопоточность - use interface Runnable()
 
 ```java

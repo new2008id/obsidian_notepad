@@ -1,4 +1,4 @@
-#InputStream #file #Closable #FileInputStream #read #try_resources
+#InputStream #file #Closable #FileInputStream #read #try_resources #java 
 ### Основные понятия
 
 >[! ] Данные из файла или из сети, нужно читать по `байтам`, т. е. данные нужно превращать в поток байтов (картинку, видео или файл).

@@ -55,3 +55,5 @@ public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.NotesViewHol
 	...
 }
 ```
+
+Теперь необходимо [[Установка адаптера в RecyclerView]]

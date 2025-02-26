@@ -1,7 +1,7 @@
 #Singleton #Activity #finish #LinearLayout #onCreate #onPause #onStart #onResume #onRestart 
 ### Основные понятия
 
->[!success ] Если вам нужно завершить работу `Acitivity`, используется метод `finish()`
+>[!success ] Если вам нужно завершить работу `Activity`, используется метод `finish()`
 
 В конкретном нашем случае у нас не обновляется список из-за двух причин:
 

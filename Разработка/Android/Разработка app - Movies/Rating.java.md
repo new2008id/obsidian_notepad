@@ -1,4 +1,4 @@
-#java 
+#java #appMovies 
 
 >[! ] Код на языке `Java`
 
@@ -6,8 +6,8 @@
 public class Rating {  
     @SerializedName("kp")  
     private String kp;  
-    @SerializedName("imdb")  
-    private String imdb;  
+// @SerializedName("imdb")  
+// private String imdb;  
   
     public Rating(String kp, String imdb) {  
         this.kp = kp;  

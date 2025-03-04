@@ -1,4 +1,4 @@
-#RecyrclerView #Context #GridLayoutManager #MovieAdapter 
+#RecyrclerView #Context #GridLayoutManager #MovieAdapter #appMovies 
 ### Основные понятия
 
 #### Колонки

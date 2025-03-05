@@ -1,4 +1,4 @@
-#Spinner #android #TextView 
+#Spinner #android #TextView  #appCafe 
 ### Реализация в `MakeOrderActivity`:
 
 ```xml

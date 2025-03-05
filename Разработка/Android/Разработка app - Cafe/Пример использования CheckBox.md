@@ -1,4 +1,4 @@
-#Checkbox #android 
+#Checkbox #android #appCafe 
 ### Примеры из проекта для реализации `MakeOrderActivity`:
 
 ```xml

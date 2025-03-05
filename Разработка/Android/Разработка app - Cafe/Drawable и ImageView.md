@@ -1,4 +1,4 @@
-#android #LinearLayout #drawable #ImageView #View #EditText #Button
+#android #LinearLayout #drawable #ImageView #View #EditText #Button #appCafe 
 ### Основные понятия
 
 Если нужно загрузить изображение в приложении, то используется папка `Drawable`. Однако, рекомендуется использовать изображения в формате `svg` или `png`, иначе будет плохое качество у какого-то устройства. Для того, чтобы загрузить изображение, выполните следующие действия:

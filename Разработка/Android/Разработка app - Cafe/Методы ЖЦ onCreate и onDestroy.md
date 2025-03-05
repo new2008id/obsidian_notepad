@@ -1,4 +1,4 @@
-#android #life_cyrcle #Activity #onCreate #onDestroy
+#android #life_cyrcle #Activity #onCreate #onDestroy #appCafe 
 
 ### Основные понятия
 
